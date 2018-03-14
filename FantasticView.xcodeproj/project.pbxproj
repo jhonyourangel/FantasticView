@@ -13,6 +13,7 @@
 		514BA0712059593400744CD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 514BA0702059593400744CD3 /* Assets.xcassets */; };
 		514BA0742059593400744CD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 514BA0722059593400744CD3 /* LaunchScreen.storyboard */; };
 		514BA07F2059593400744CD3 /* FantasticViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 514BA07E2059593400744CD3 /* FantasticViewTests.swift */; };
+		514BA08A2059597700744CD3 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 514BA0892059597700744CD3 /* FantasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		514BA07A2059593400744CD3 /* FantasticViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FantasticViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		514BA07E2059593400744CD3 /* FantasticViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticViewTests.swift; sourceTree = "<group>"; };
 		514BA0802059593400744CD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		514BA0892059597700744CD3 /* FantasticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				514BA0692059593200744CD3 /* AppDelegate.swift */,
 				514BA06B2059593200744CD3 /* ViewController.swift */,
+				514BA0892059597700744CD3 /* FantasticView.swift */,
 				514BA06D2059593200744CD3 /* Main.storyboard */,
 				514BA0702059593400744CD3 /* Assets.xcassets */,
 				514BA0722059593400744CD3 /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				514BA06C2059593200744CD3 /* ViewController.swift in Sources */,
 				514BA06A2059593200744CD3 /* AppDelegate.swift in Sources */,
+				514BA08A2059597700744CD3 /* FantasticView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
